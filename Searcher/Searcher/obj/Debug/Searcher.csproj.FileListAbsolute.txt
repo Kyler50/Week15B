@@ -1,0 +1,9 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\bin\Debug\Searcher.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\bin\Debug\Searcher.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\bin\Debug\Searcher.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\obj\Debug\Searcher.csprojResolveAssemblyReference.cache
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\obj\Debug\Searcher.Properties.Resources.resources
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\obj\Debug\Searcher.csproj.GenerateResource.Cache
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\obj\Debug\Searcher.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\Searcher\Searcher\obj\Debug\Searcher.pdb
+C:\Users\Vas Richard Roland\Documents\Visual Studio 2015\Projects\Searcher\Searcher\obj\Debug\Searcher.Form1.resources
